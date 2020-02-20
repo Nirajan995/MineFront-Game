@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\DELL\Desktop\GraphicsProject\Minefront\.metadata\.plugins\org.eclipse.jdt.core
+2571366249.index
